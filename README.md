@@ -11,7 +11,7 @@ Topics covered:
 - Functions
 - One Dimensional Array
 - Pointers & Dynamic Memory
-- Recusrive Functions
+- Recursive Functions
 - Strings
 - Switch-Case Statement
 - Two Dimensional Array
