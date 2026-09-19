@@ -2,7 +2,7 @@
 All basic C Programming I have done during my college constantly during my 1st sem. 
 
 
-Topics covered:
+###Topics covered:
 
 - Basics of C
 - Conditional Statements
