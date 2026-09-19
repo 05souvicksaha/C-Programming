@@ -1,5 +1,5 @@
 # C-Programming
-All basic C Programming I have done during my college. 
+All basic C Programming I have done during my college constantly during my 1st sem. 
 
 
 Topics covered:
