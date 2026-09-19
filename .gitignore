@@ -1,0 +1,8 @@
+.vscode/
+build/
+output/
+*.exe
+*.out
+*.PY
+*.pdf
+*.txt
